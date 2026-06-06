@@ -56,9 +56,9 @@ NavigationDrawerDemo/
 │   └── ic_list.xml
 │
 └── README.md
-
-Fragments
-Fragment 1
+```
+# Fragments
+## Fragment 1
 
 Le premier fragment affiche un fond rose avec le texte :
 
@@ -67,7 +67,7 @@ Fragment 2
 
 Le deuxième fragment affiche un fond bleu avec le texte :
 
-Fragment 2
+## Fragment 2
 Fragment List
 
 Le troisième fragment affiche une liste simple contenant :
@@ -88,7 +88,7 @@ Fragment List	FragmentList
 
 Lorsqu'un élément du menu est sélectionné, MainActivity utilise FragmentManager pour remplacer dynamiquement le contenu du FrameLayout.
 
-Dépendances principales
+# Dépendances principales
 
 Les dépendances utilisées dans le projet sont :
 
@@ -103,7 +103,7 @@ implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 implementation("com.google.android.material:material:1.12.0")
 Exécution
 
-Pour exécuter le projet :
+# Pour exécuter le projet :
 
 Ouvrir le projet avec Android Studio.
 Synchroniser Gradle.
@@ -112,6 +112,6 @@ Ouvrir le Navigation Drawer.
 Sélectionner les différents fragments.
 Vidéo démonstrative
 
-La vidéo démonstrative du projet est disponible ici :
+# La vidéo démonstrative du projet est disponible ici :
 
-Voir la vidéo de démonstration 
+[Voir la vidéo de démonstration ](https://drive.google.com/file/d/1VAbHwBwkjrX3b41_a1qEzKQtvruC4ha6/view?usp=sharing)
